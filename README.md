@@ -3,6 +3,7 @@
 
 Window is a topmost window, and background of window is set to transparent, just for fun.
 
+- Code is a modification of the following: ![https://www.opengl.org/archives/resources/code/samples/win32_tutorial/simpledib.c](https://www.opengl.org/archives/resources/code/samples/win32_tutorial/simpledib.c)
 - You can escape by \<ESC>
 - Yout can drag torus exactly clicking on it
 
